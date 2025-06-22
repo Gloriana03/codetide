@@ -1,4 +1,4 @@
-<h1 align="center">🌊 codetide</h1>
+<h1 align="center">🌊 codetide 🌊</h1>
 
 <p align="center">
 A reflective and evolving portfolio of front-end development, testing,<br>
