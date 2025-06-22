@@ -2,7 +2,7 @@
 
 <p align="center">
 A reflective and evolving portfolio of front-end development, testing,<br>
-and soft touches of backend work — crafted with care, curiosity, and imagination.
+and soft touches of backend work; crafted with care, curiosity, and imagination.
 </p>
 
 ---
