@@ -35,7 +35,7 @@ Within each:
 
 ## 💬 Final Note
 
-This space is more than just code — it’s a stream of intention, built one wave at a time.  
-Whether it's a single script or a full application, each project echoes where I’ve been — and where I’m going.
+This space is more than just code, it’s a stream of intention, built one wave at a time.  
+Whether it's a single script or a full application, each project echoes where I’ve been,and where I’m going.
 
 <p align="center"><i>Welcome to codetide.</i></p>
