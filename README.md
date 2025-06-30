@@ -23,7 +23,7 @@ Here, you'll find:
 
 ## 📁 Structure Overview
 
-COMING OFFICALLY SOON 
+Folders will be populated as I add projects over time 
 
 
 
